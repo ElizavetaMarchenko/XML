@@ -1,0 +1,12 @@
+<head>
+ value = 5
+<child2>
+ value = 2
+<child21>
+ value = 21
+</child21>
+<child22>
+ value = 22
+</child22>
+</child2>
+</head>
